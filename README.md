@@ -26,13 +26,24 @@ Demonstrate your understanding of this Sprint's concepts by answering the follow
 
 - [ ] Mention two parts of Express that you learned about this week.
 
+I learned about using routers to organize code and reduce clutter. 
+I learned that you can use express to create SPA. 
+
 - [ ] Describe Middleware?
+
+Middleware can be used to add features to express. There is built in, thirdpary, and custom middleware. 
 
 - [ ] Describe a Resource?
 
+    A resourse is anything on your page that is data. Examples being users and posts.
+
 - [ ] What can the API return to help clients know if a request was successful?
 
+    status codes!
+
 - [ ] How can we partition our application into sub-applications?
+
+using routers to organize our code. 
 
 ## Project Setup
 
